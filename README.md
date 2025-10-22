@@ -1,1 +1,2 @@
-# jgs-1.8
+# JGS
+JacobbGameServer do not leak!
